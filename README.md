@@ -97,7 +97,7 @@ Run tests with:
 mvn test
 ```
 
-## License
+## Note
 
 This project is part of the Software Engineering II course at University of Passau.
 
